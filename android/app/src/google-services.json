@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650014242329",
+    "project_id": "abhedeye-dermacare-01",
+    "storage_bucket": "abhedeye-dermacare-01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650014242329:android:6b1b33d34ec93eabd95c88",
+        "android_client_info": {
+          "package_name": "com.example.abhedeye_dermacare_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650014242329-h692ln8adsfoh83mrkbmseknr5sjdnfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrB7qTMGfOGIQ7DSVJRC8Vh4E8Zfgu48I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650014242329-h692ln8adsfoh83mrkbmseknr5sjdnfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
